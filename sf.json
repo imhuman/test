@@ -1,0 +1,107 @@
+rounds: [
+        {
+            stage: 'pre',
+            games: [
+                {
+                    number: 1,
+                    player1: {clan: "Moscow family", name: "Romidos", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Alexandr", points: "0", winner: false},
+                },
+                {
+                    number: 2,
+                    player1: {clan: "Moscow family", name: "saturn", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Denisqaaa", points: "0", winner: false},
+                },
+                {
+                    number: 3,
+                    player1: {clan: "Moscow family", name: "АлкоТолик", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Наталья AQUA", points: "0", winner: false},
+                },
+                {
+                    number: 4,
+                    player1: {clan: "Moscow family", name: "imhuman", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "TaraKaH", points: "0", winner: false},
+                },
+                {
+                    number: 5,
+                    player1: {clan: "Moscow family", name: "Dima", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Денчик", points: "0", winner: false},
+                },
+                {
+                    number: 6,
+                    player1: {clan: "Moscow family", name: "W@RF@RECELL", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Grishin", points: "0", winner: false},
+                },
+                {
+                    number: 7,
+                    player1: {clan: "Moscow family", name: "XotSexyToy", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Sergey", points: "0", winner: false},
+                },
+                {
+                    number: 8,
+                    player1: {clan: "Moscow family", name: "Злой хирург", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "CCC", points: "0", winner: false},
+                },
+            ]
+        },
+        {
+            stage: 'quarterfinals',
+            games: [
+                {
+                    number: 9,
+                    player1: {clan: "Moscow family", name: "Winner1", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Winner2", points: "0", winner: false},
+                },
+                {
+                    number: 10,
+                    player1: {clan: "Moscow family", name: "Winner3", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Winner4", points: "0", winner: false},
+                },
+                {
+                    number: 11,
+                    player1: {clan: "Moscow family", name: "Winner5", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Winner6", points: "0", winner: false},
+                },
+                {
+                    number: 12,
+                    player1: {clan: "Moscow family", name: "Winner7", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Winner8", points: "0", winner: false},
+                },
+            ]
+        },
+        {
+            stage: 'semifinals',
+            games: [
+                {
+                    number: 13,
+                    player1: {clan: "Moscow family", name: "Winner9", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Winner10", points: "0", winner: false},
+                },
+                {
+                    number: 14,
+                    player1: {clan: "Moscow family", name: "Winner11", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Winner12", points: "0", winner: false},
+                },
+            ]
+        },
+        {
+            stage: 'bronze',
+            games: [
+                {
+                    number: 15,
+                    player1: {clan: "Moscow family", name: "Loser13", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Loser14", points: "0", winner: false},
+                },
+            ]
+        },
+        {
+            stage: 'gold',
+            games: [
+                {
+                    number: 16,
+                    player1: {clan: "Moscow family", name: "Winner13", points: "0", winner: false},
+                    player2: {clan: "Moscow family", name: "Winner14", points: "0", winner: false},
+                },
+            ]
+        }
+    ]
