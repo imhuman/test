@@ -1,4 +1,4 @@
-{
+[{
     minsumm: 1000,
     maxsumm: 30000,
     stepsumm: 1000,
@@ -51,4 +51,4 @@
             type: 'IL',
         },
     ]
-}
+}]
